@@ -6,12 +6,17 @@
 
 #### Com o intuito de promover um material que visa auxiliar o processo de aprendizado, o projeto tem como objetivo desenvolver ferramentas nas quais utilizam-se de recursos visuais para facilitar a absorção do conteúdo. Sendo assim, aqui você encontrará folhas de dicas sintetizadas e organizadas que transformaram informações complexas em informações simples.
 
-#### Formatos disponíveis :
+#### 🟩Formatos disponíveis 
      ◾ PDF
      ◾ PNG
      
-#### 📑 Folhas de dicas (Cheat Sheet) MER
-#### 📑 Folhas de dicas (Cheat Sheet) SQL
+#### 🍃<a href= "https://github.com/petufc/Projeto_Folha_de_Dicas/tree/main/MER" > Folhas de dicas (Cheat Sheet) MER </a>
+#### 🍃<a href= "https://github.com/petufc/Projeto_Folha_de_Dicas/tree/main/SQL" > Folhas de dicas (Cheat Sheet) SQL </a>
+
+
+#### 🟩Recomendação
+Você tem todo o direito de usar este material para o seu próprio aprendizado. Professores também podem ter acesso a todas as fichas de dicas para usa-lás com os seus alunos.Todavia, todos os que usarem este material- seja para qual for a finalidade - deverão manter a referência ao material original, criado pelo PET-SI e disponível no endereço do seu repositório público https://github.com/petufc. Este material não poderá ser utilizado em nenhuma hipótese para ser replicado, seja integral ou parcialmente por autores/editoras para criar um material, com a finalidade de obter ganhos financeiros.
+
 
 
 
